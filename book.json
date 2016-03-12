@@ -1,0 +1,11 @@
+{
+  "gitbook": "2.x.x",
+  "plugins": [ "edit-link" ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/libroabierto/teresa-de-la-parra_ifigenia/tree/master",
+      "label": "Editar esta página"
+    }
+  },
+  "title": "Ifigenia"
+}
